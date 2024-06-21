@@ -4,10 +4,11 @@
 
 @font-face {
   font-family: "Li Zahir Rayhan Unicode";
-  src: url("./assets/font/Li\ Zahir\ Rayhan\ Unicode.ttf");
+  src: url("/Fonts/Li\ Zahir\ Rayhan\ Unicode.ttf");
 }
 
-body {
+body,
+html {
   margin: 0;
   padding: 0;
   max-width: 100vw;
@@ -20,4 +21,3 @@ body {
   box-shadow: 0px 4px 10.7px 3px rgba(0, 0, 0, 0.25);
   backdrop-filter: blur(3.5px);
 }
-
